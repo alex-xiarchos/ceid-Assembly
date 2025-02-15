@@ -8,6 +8,7 @@ Implemented Programs:
 - **Sorting Algorithms**: Implemented Insertion Sort in pure Assembly for in-place array sorting.
 - **Fibonacci Sequence**: Calculated and stored Fibonacci numbers using efficient looping in Assembly.
 - **Memory Access**: Sequential memory manipulation and efficient data loading and storing.
+- **Mathematical Computation**: Polynomial Evaluation using Horner's method.
 
 ## 📑 Report PDFs
 - [Exercise 2](https://github.com/alex-xiarchos/ceid-assembly/blob/main/Exercise%202.pdf)
